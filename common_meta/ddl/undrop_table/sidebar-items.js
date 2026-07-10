@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["UndropTableState"],"fn":["open_regions","open_regions_ignore_region_not_found","open_regions_inner"],"struct":["UndropTableData","UndropTableProcedure"]};
